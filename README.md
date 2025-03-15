@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fastapi-quickstart
 
 ## Run for development (with reload, no ssl)
@@ -10,3 +11,6 @@
 ## Run for production (with ssl) 
 - Set the correct port in the script or do a better config using `dotenv`
 - Run: `python main.py`
+=======
+# fastapi-quickstart
+>>>>>>> 53f431f (Initial commit)
