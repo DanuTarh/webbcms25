@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b5e92e0 (Starter code)
 # fastapi-quickstart
 
 ## Run for development (with reload, no ssl)
@@ -11,6 +14,9 @@
 ## Run for production (with ssl) 
 - Set the correct port in the script or do a better config using `dotenv`
 - Run: `python main.py`
+<<<<<<< HEAD
 =======
 # fastapi-quickstart
 >>>>>>> 53f431f (Initial commit)
+=======
+>>>>>>> b5e92e0 (Starter code)
